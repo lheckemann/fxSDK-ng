@@ -1,0 +1,6 @@
+[submodule "C-G1A-Wrapper"]
+	path = C-G1A-Wrapper
+	url = git://github.com/Anonymooseable/C-G1A-Wrapper.git
+[submodule "libfxsys"]
+	path = libfxsys
+	url = git://github.com/Anonymooseable/libfxsys.git
